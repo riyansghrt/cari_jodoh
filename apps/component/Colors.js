@@ -1,0 +1,15 @@
+export const Colors = {
+  main: "#B52A5A",
+  text: "#202124",
+  primary: "#202124",
+  white: "#FFFFFF",
+  light: "#F4F4F5",
+  accentSoft: "#FFF0F5",
+  mainLight: "#DA547D",
+  border: "#E6E7E9",
+  grey: "#73767C",
+  blue: "#007DBC",
+  greyLight: "#484848",
+  orange: "#FF5722",
+  submain: "#FFFFFF",
+};

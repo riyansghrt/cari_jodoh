@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "43639949156",
+    "project_id": "cari-kerja-31a10",
+    "storage_bucket": "cari-kerja-31a10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43639949156:android:3098db228cfbc8c6869c71",
+        "android_client_info": {
+          "package_name": "com.cari_kerja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43639949156-b2sr1731m00ud8rde8kqiip932n1p75e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cari_kerja",
+            "certificate_hash": "407ff2abcc7beb2d41af5fdbabc07260e934122b"
+          }
+        },
+        {
+          "client_id": "43639949156-bi7qb8hi7ctg22qa9attuht7mq0d1rv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cari_kerja",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "43639949156-gv4q6pdhdh349opmih2ig518lerse17i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cari_kerja",
+            "certificate_hash": "06ca7643cf735b3d1388ee928840af5dbf95a0ca"
+          }
+        },
+        {
+          "client_id": "43639949156-asb19dnpr1radh9e79h3usctp7hqmmsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMdpdesrE48nzsw3kmWuYYyFQ_xRfyULs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43639949156-asb19dnpr1radh9e79h3usctp7hqmmsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
